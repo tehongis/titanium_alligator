@@ -1,0 +1,11 @@
+[package]
+name = "titanium_alligator"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+box2d = "0.0.2"
+sdl2 = "0.35.2"
+tiled = "0.11.1"
